@@ -2,7 +2,7 @@
 
 [Beli Smart Relay](https://www.tokopedia.com/sebuahhobi/smart-relay-8-channel-wemos-d1-mini-full-group "Smart Relay by Sebuahhobi")
 
-![Smart Relay](/relative/path/to/Smart_Relay.jpg?raw=true "Smart Relay")
+![Smart Relay](/Smart_Relay.jpg "Smart Relay")
 
 ---
 
@@ -22,7 +22,7 @@
 Ip Adress standar ESP8266: 192.168.4.1
 
 ## Wi-FI
-SSID: sebuahhobi.tech
+SSID: sebuahhobi.tech <br>
 Password: bismillah
 ---
 
