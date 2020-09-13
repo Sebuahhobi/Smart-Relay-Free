@@ -33,9 +33,10 @@ Password: bismillah
  4. Hubungankan Wi-FI
  5. Buka browser lalu ketik **192.168.4.1**
 
-[Referensi upload .bin](https://somtips.com/how-to-flash-bin-file-to-esp8266-nodemcu-from-windows-os/#:~:text=the%20EXE%20file.-,Set%20Up%20Nodemcu%20Flasher%20to%20flash%20Bin%20File%20ESP8266,your%20bin%20file%20from%20computer.)
+* [Referensi upload .bin](https://somtips.com/how-to-flash-bin-file-to-esp8266-nodemcu-from-windows-os.)
+
+## Video
+[![Watch on](https://img.youtube.com/vi/m_jjIj7Gzmc/0.jpg)](https://www.youtube.com/watch?v=m_jjIj7Gzmc&ab_channel=HobiElektro)
 
 ---
 **Semoga bermanfaat.**
-
-
