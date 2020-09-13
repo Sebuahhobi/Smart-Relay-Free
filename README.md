@@ -24,8 +24,10 @@ Smart Relay ini menggunakan aktif LOW yaitu ketika tombol ON/Hidup Pin MCU akan 
 Ip Adress standar ESP8266: 192.168.4.1
 
 ## Wi-FI
-SSID: sebuahhobi.tech <br>
-Password: bismillah
+
+SSID     : sebuahhobi.tech <br>
+Password : bismillah
+
 ---
 
 ## Instalasi
