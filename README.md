@@ -1,11 +1,19 @@
 # Smart Relay by Sebuahhobi
 <br>
+<<<<<<< HEAD
 Smart Relay ini menggunakan aktif HIGH yaitu ketika tombol ON/Hidup Pin MCU akan mengeluarkan output logika HIGH. Jadi pastikan modul relay yang digunakan menggunakan aktif HIGH.
 
 [Beli Smart Relay](https://www.tokopedia.com/sebuahhobi/smart-relay-8-channel-wemos-d1-mini-full-group "Smart Relay by Sebuahhobi")
 
 ![Smart Relay](/Smart_Relay.jpg "Produk Smart Relay")
 ![Smart Relay](/ss.jpg "Control Smart Relay")
+=======
+Smart Relay ini menggunakan aktif LOW yaitu ketika tombol ON/Hidup Pin MCU akan mengeluarkan output logika LOW. Jadi pastikan modul relay yang digunakan menggunakan aktif LOW.
+
+[Beli Smart Relay](https://www.tokopedia.com/sebuahhobi/smart-relay-8-channel-wemos-d1-mini-full-group "Smart Relay by Sebuahhobi")
+
+![Smart Relay](/Smart_Relay.jpg "Smart Relay")
+>>>>>>> bc8f4b576a42f242407825bbda6742ec2e042b5c
 
 ---
 
