@@ -5,18 +5,12 @@ Smart Relay ini menggunakan aktif HIGH yaitu ketika tombol ON/Hidup Pin MCU akan
 [Beli Smart Relay](https://www.tokopedia.com/sebuahhobi/smart-relay-8-channel-wemos-d1-mini-full-group "Smart Relay by Sebuahhobi")
 
 ![Smart Relay](/ss.jpg "Control Smart Relay")
-=======
-Smart Relay ini menggunakan aktif LOW yaitu ketika tombol ON/Hidup Pin MCU akan mengeluarkan output logika LOW. Jadi pastikan modul relay yang digunakan menggunakan aktif LOW.
-
-[Beli Smart Relay](https://www.tokopedia.com/sebuahhobi/smart-relay-8-channel-wemos-d1-mini-full-group "Smart Relay by Sebuahhobi")
-
-![Smart Relay](/Smart_Relay.jpg "Smart Relay")
 
 ---
 
 ## Konfigurasi PIN
 
-**Wemos D1 Mini | Nodemcu | ESP8266 12E/F **
+**Wemos D1 Mini | Nodemcu | ESP8266 12E/F**
 - Relay 1 D1
 - Relay 2 D2
 - Relay 3 D3
