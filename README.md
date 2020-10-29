@@ -1,8 +1,11 @@
 # Smart Relay by Sebuahhobi
+<br>
+Smart Relay ini menggunakan aktif HIGH yaitu ketika tombol ON/Hidup Pin MCU akan mengeluarkan output logika HIGH. Jadi pastikan modul relay yang digunakan menggunakan aktif HIGH.
 
 [Beli Smart Relay](https://www.tokopedia.com/sebuahhobi/smart-relay-8-channel-wemos-d1-mini-full-group "Smart Relay by Sebuahhobi")
 
-![Smart Relay](/relative/path/to/Smart_Relay.jpg?raw=true "Smart Relay")
+![Smart Relay](/Smart_Relay.jpg "Produk Smart Relay")
+![Smart Relay](/ss.jpg "Control Smart Relay")
 
 ---
 
@@ -22,8 +25,10 @@
 Ip Adress standar ESP8266: 192.168.4.1
 
 ## Wi-FI
-SSID: sebuahhobi.tech
-Password: bismillah
+
+SSID     : sebuahhobi.tech <br>
+Password : bismillah
+
 ---
 
 ## Instalasi
@@ -33,9 +38,10 @@ Password: bismillah
  4. Hubungankan Wi-FI
  5. Buka browser lalu ketik **192.168.4.1**
 
-[Referensi upload .bin](https://somtips.com/how-to-flash-bin-file-to-esp8266-nodemcu-from-windows-os/#:~:text=the%20EXE%20file.-,Set%20Up%20Nodemcu%20Flasher%20to%20flash%20Bin%20File%20ESP8266,your%20bin%20file%20from%20computer.)
+* [Referensi upload .bin](https://somtips.com/how-to-flash-bin-file-to-esp8266-nodemcu-from-windows-os.)
+
+## Video
+[![Watch on](https://img.youtube.com/vi/m_jjIj7Gzmc/0.jpg)](https://www.youtube.com/watch?v=m_jjIj7Gzmc&ab_channel=HobiElektro)
 
 ---
 **Semoga bermanfaat.**
-
-
